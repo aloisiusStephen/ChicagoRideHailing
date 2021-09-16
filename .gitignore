@@ -1,3 +1,7 @@
 # ignore csv file due to large file size
 Taxi_Trips_-_2021.csv
 cleaned_data.csv
+
+# ignore checkpoints
+
+.ipynb_checkpoints
