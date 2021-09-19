@@ -1,8 +1,12 @@
 # ignore csv file due to large file size
 Taxi_Trips_-_2021.csv
+Taxi_Trips_-_2020.csv
 cleaned_data.csv
 
-# ignore checkpoints
+# ignore working file
+ChicagoRideHailing_Analysis.ipynb
+ChicagoRideHailing_DataCleaning.ipynb
 
+# ignore checkpoints
 .ipynb_checkpoints
-Taxi_Trips_-_2020.csv
+
